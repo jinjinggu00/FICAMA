@@ -1,2 +1,1 @@
-# FICAMA
-Official pytorch implementation of Skeleton-Based Few-Shot Action Recognition via Fine-Grained Information Capture and Adaptive Metric Aggregation
+# The code and data are currently being organized and will be made public as soon as possible.
