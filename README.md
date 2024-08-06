@@ -13,6 +13,12 @@ fitlog = 0.9.15
 # Datasets
 NTU-T, NTU-S, and Kinetics are composed of [https://github.com/NingMa-AI/DASTM](https://github.com/NingMa-AI/DASTM) Provide.
 
+The two datasets used in the paper for removing invalid frames and confidence levels from the Kinetics dataset can be obtained through the following link:
+[https://drive.google.com/file/d/10G-wX7xtoiXf1qsCjHg-oukSes_WuDig/view?usp=sharing]
+
+[链接：https://pan.baidu.com/s/1aTDdflevh4vuk2V5uUam0Q?pwd=4nrq 
+提取码：4nrq]
+
 # Data Storage Format
 
 Our data is organized in the following folder structure:
